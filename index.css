@@ -1,0 +1,51 @@
+body {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+   
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 80px ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 170px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#start-btn {
+    background-color: darkred;
+}
+
+#hit-btn {
+    color: green;
+    background-color: goldenrod;
+    font-size: 30px;
+    width: 130px;
+    margin-bottom: 8px;
+}
+
+#stay-btn {
+    color: green;
+    background-color: goldenrod;
+    font-size: 30px;
+    width: 130px;
+}
